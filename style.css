@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'RMX';
+    src: url('valimo.ttf');
+} 
+
+@font-face {
+    font-family: 'xero';
+    src: url(xeroxmal.ttf);
+}
+
+* {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.tag {
+    display: inline-block;
+}
+
+#email {
+    font-family: 'RMX';
+    font-size: 60px;
+}
+
+#lead {
+    font-family: 'phosphate';
+    font-size: 36;
+}
+
+#follow {
+    font-family: 'xero';
+    font-size: 60px;
+    letter-spacing: 3px;
+}
+
+#subtitle {
+    font-family: 'xero';
+    font-size: 50px;
+}
+
+h1 {
+    font-family: 'RMX';
+    font-size: 80px;
+}
+
+h2 { 
+    font-family: 'RMX';
+    font-size: 60px;
+}
+
+h3 {
+    font-family: 'xero';
+    font-size: 60px;
+    letter-spacing: 3px;
+}
+
+a:link {
+    color: black; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
